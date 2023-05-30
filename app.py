@@ -8,3 +8,4 @@ def fib(n):
         f,s=s,f+s
 x=fib(int(input('enter your fib number')))
 print(list(x))
+print('this is how we can print fib series')
